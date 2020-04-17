@@ -69,12 +69,12 @@ Il suffit d'ouvrir le dossier SimOrbit du repo Git directement dans Unity.
 
 ### Utilisation
 
-Le projet peut être utiliser directement dans l'éditeur. Il y a également une version compilée dans le dossier "SimOrbit" > "Build".
+Le projet peut être utilisé directement dans l'éditeur. Il y a également une version compilée dans le dossier "SimOrbit" > "Build".
 
 ### Liens
 
-Django : [https://www.djangoproject.com/](https://www.djangoproject.com/)
-Django Rest Framework : [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/)
+Django : [https://www.djangoproject.com/](https://www.djangoproject.com/) <br>
+Django Rest Framework : [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/) <br>
 Unity3D Download : [https://unity3d.com/fr/get-unity/download/]
 
 ### Contacts
