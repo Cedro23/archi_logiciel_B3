@@ -75,7 +75,7 @@ Le projet peut être utilisé directement dans l'éditeur. Il y a également une
 
 Django : [https://www.djangoproject.com/](https://www.djangoproject.com/) <br>
 Django Rest Framework : [https://www.django-rest-framework.org/](https://www.django-rest-framework.org/) <br>
-Unity3D Download : [https://unity3d.com/fr/get-unity/download/]
+UnityHub Download : https://unity3d.com/fr/get-unity/download/
 
 ### Contacts
 
