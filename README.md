@@ -80,5 +80,5 @@ Unity3D Download : [https://unity3d.com/fr/get-unity/download/]
 ### Contacts
 
 En cas de problèmes
-Florian ARMENOULT (API-BDD) : florian.armenoult@ynov.com
+Florian ARMENOULT (API-BDD) : florian.armenoult@ynov.com <br>
 Cédric LESUEUR (CLIENT) : cedric.lesueur@ynov.com
